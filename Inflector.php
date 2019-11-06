@@ -140,6 +140,9 @@ final class Inflector
 
         // people (person)
         ['elpoep', 6, true, true, 'person'],
+        
+        // species (species)
+        ['seiceps', 7, true, true, 'species'],
     ];
 
     /**
